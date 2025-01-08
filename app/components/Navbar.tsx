@@ -23,7 +23,7 @@ export default function Navbar() {
                 {/* Logo Section */}
                 <Link href='/'>
                     <h1 className="text-2xl md:text-4xl font-bold hover:opacity-80 transition-opacity">
-                        Classy <span className="text-primary text-amber-900">Clothes</span>
+                        Classy <span className="text-primary text-orange-700">Clothes</span>
                     </h1>
                 </Link>
 
